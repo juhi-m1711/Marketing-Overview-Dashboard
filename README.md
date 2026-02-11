@@ -1,7 +1,7 @@
 # Marketing Overview Dashboard (Power BI)
 ## About the Project
 
-This project is an interactive Marketing Overview Dashboard built in Power BI to analyze marketing performance across different channels, campaigns, and countries. The aim is to turn raw marketing data into meaningful insights that help in understanding performance and making better marketing decisions.
+This project is an interactive **Marketing Overview Dashboard** built in **Power BI** to analyze marketing performance across different channels, campaigns, and countries. The aim is to turn raw marketing data into meaningful insights that help in understanding performance and making better marketing decisions.
 
 ---
 
